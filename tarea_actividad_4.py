@@ -62,6 +62,17 @@ while intentos > 0:
     passward= input("Ingrese su contraseña: ")
 
     if usuario in resgistro_usu:
+        if resgistro_usu[usuario] == passward:
+            print(f"Acceso valido, Bienvenido al menu: {usuario.capitalize()}")
+
+            print (f"____Menu de opciones_____\n")
+            print(f"op 1. Ver perfil\n ")
+            print(f"op 2. cambiar contraseña\n")
+            print(f"op 3. cerrar sesión\n ")
+            break
+        else:
+            intentos = intentos -1
+            print(f"La contraseña que ingreso no es valida")
 
 
 
