@@ -34,9 +34,18 @@ deducciones= 1000*dependientes
 if ingreso_anual >=0 and ingreso_anual <=30000:
     caso1= ingreso_anual * (5/100)
     print(f"De Q0.00 a Q30,000 el impuesto progresivo es del 5%, total= Q{caso1}")
+    if ingreso_anual /12 <= 40000 and dependientes > 2:
+        print(f"____Tiene más de 2 dependientes___")
+        print(f"___No paga impuestos____")
 elif  ingreso_anual >= 30001 and ingreso_anual <= 60000:
     caso2= ingreso_anual* (10/100)
     print(f"De Q30,001 a Q60,000 el impuesto progresivo es del 10%, total=Q{caso2}")
+elif ingreso_anual >= 60001 and ingreso_anual <= 100000:
+    caso3= ingreso_anual * (15/100)
+    print(f" De Q60,001 a Q100,000 el impuesto progresivo es de 15%, total= Q{caso3}")
+elif ingreso_anual >100000:
+    caso4= ingreso_anual * (20/100)
+    print(f"más de Q100,000 el impuesto progresivo es de 20%, total= Q{caso4}")
 
 
 
