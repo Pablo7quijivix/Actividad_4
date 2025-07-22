@@ -9,5 +9,10 @@ while True:
     department= input("ingrese su departamento de origen: ")
     yearofbirth=int(input("Ingrese su fecha de nacimiento: "))
 
-    if len(name) < 5:
+    if len(name) <=5:
         print ("Nombre incorrecto,  ingrese un nombre mayor a 5 caracteres")
+    elif len(dpi) != 13 or not dpi.isdigit(): #esta funcion es una funcion de python que sirve para verificar que en nuestra variable "dpi" hayan unicamente numeros
+        print("Numero de DPI invalido, ingrese un DPI correcto")
+
+
+
