@@ -24,7 +24,7 @@ while True:
         print(f"{name} es mayor de 18 años, puede votar!")
     else:
         print (f"{name} es manor de edad, NO PUEDE VOTAR")
-'''
+
 #codigo numero 2: Calculadora de impuestos progresivos
 ingreso_anual=int(input("Escriba sus ingresos anuales: \n"))
 dependientes= int(input("ingrese numero de dependientes: \n"))
@@ -35,7 +35,7 @@ if ingreso_anual >=0 and ingreso_anual <=30000:
     caso1= ingreso_anual * (5/100)
     print(f"De Q0.00 a Q30,000 el impuesto progresivo es del 5%, total= Q{caso1}")
     if ingreso_anual /12 <= 40000 and dependientes > 2:
-        print(f"____Tiene más de 2 dependientes___")
+        print(f"____Tiene más de 2 dependientes___({dependientes})")
         print(f"___No paga impuestos____")
 elif  ingreso_anual >= 30001 and ingreso_anual <= 60000:
     caso2= ingreso_anual* (10/100)
@@ -47,5 +47,6 @@ elif ingreso_anual >100000:
     caso4= ingreso_anual * (20/100)
     print(f"más de Q100,000 el impuesto progresivo es de 20%, total= Q{caso4}")
 
+'''
 
 
