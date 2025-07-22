@@ -48,5 +48,12 @@ elif ingreso_anual >100000:
     print(f"más de Q100,000 el impuesto progresivo es de 20%, total= Q{caso4}")
 
 '''
+#codigo numero 3
+#sistema de autenticacion avanzado con penalización
+resgistro_usu={
+    "pablo": "567"
+
+}
+
 
 
