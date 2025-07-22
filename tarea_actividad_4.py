@@ -11,8 +11,13 @@ while True:
 
     if len(name) <=5:
         print ("Nombre incorrecto,  ingrese un nombre mayor a 5 caracteres")
-    elif len(dpi) != 13 or not dpi.isdigit(): #esta funcion es una funcion de python que sirve para verificar que en nuestra variable "dpi" hayan unicamente numeros
-        print("Numero de DPI invalido, ingrese un DPI correcto")
+        continue
+    if len(dpi) != 13 or not dpi.isdigit():
+        print("Ingrese un numero de dpi correcto: ")
+        continue
+    if  yearofbirth <18:
+        print(f"{name} es mayor de 18 años, puede votar!")
+
 
 
 
