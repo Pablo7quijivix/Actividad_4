@@ -57,6 +57,13 @@ resgistro_usu={
 }
 intentos= 3 #intentos permitidos segun el codigo
 
+while intentos > 0:
+    usuario= input("Ingrese su usuario (su nombre):  ")
+    passward= input("Ingrese su contraseña: ")
+
+    if usuario in resgistro_usu:
+
+
 
 
 
