@@ -51,9 +51,12 @@ elif ingreso_anual >100000:
 #codigo numero 3
 #sistema de autenticacion avanzado con penalización
 resgistro_usu={
-    "pablo": "567"
-
+    "pablo": "567",
+    "jimena": "cristiano",
+    "apolo": "ares"
 }
+intentos= 3 #intentos permitidos segun el codigo
+
 
 
 
