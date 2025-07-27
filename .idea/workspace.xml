@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment="1 commit oicial">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment="3 commit oficial">
       <change beforePath="$PROJECT_DIR$/Actividad_4_actualizado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad_4_actualizado.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753644570271</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3 commit oficial">
+      <option name="closed" value="true" />
+      <created>1753658045747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753658045747</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +133,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="2 commit" />
     <MESSAGE value="1 commit oicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 commit oicial" />
+    <MESSAGE value="3 commit oficial" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 commit oficial" />
   </component>
 </project>
