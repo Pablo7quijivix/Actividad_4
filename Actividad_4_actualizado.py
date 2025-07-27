@@ -19,15 +19,16 @@ if name2 > 5:
                 print(f"Bienvenido {name} su centro de votación está es {deparment} ")
             else:
                 print(f"======USUARIO NO PUEDE VOTAR POR: =====")
-                print("NO es mayor de edad")
+                print("---NO ES MAYOR DE EDAD---")
         else:
             print("__________Votante Válido_________")
             print(f"Bienvenido {name} su centro de votación está es {deparment} ")
     else:
-        print("DENEGADO POR DPI InValido")
+        print(f"======USUARIO NO PUEDE VOTAR POR: =====")
+        print("---DPI INVALIDO---")
 else:
     print(f"======USUARIO NO PUEDE VOTAR POR: =====")
-    print("NO es mayor de edad")
+    print("---NO es mayor de edad---")
 
 
 
