@@ -39,21 +39,25 @@ no_dependientes= float(input("Digite su numero de dependientes: "))
 
 no_dependientes2 = no_dependientes * 1000
 
-des1 = 0
-des2 = 0
-des3 = 0
-des4 = 0
+des1= float(ingreso_anual * 0.05)
+des2 = float (ingreso_anual *0.1)
+des3 = float(ingreso_anual * 0.15)
+des4 = float (ingreso_anual * 0.2)
 if 0 <= ingreso_anual <= 30000:
-    des1= float(ingreso_anual * 0.05)
     if 30001 <= ingreso_anual <= 60000:
-        des2 =float (ingreso_anual *0.1)
         if 60001 <= ingreso_anual >=100000:
-            des3 = float(ingreso_anual * 0.15)
             if ingreso_anual > 100000:
-                des4 = float (ingreso_anual * 0.2)
                 if ingreso_anual < 40000 and no_dependientes > 2:
                     print("=======CALCULADORA DE IMPUESTOS PROGRESIVOS + DEDUCCIONES=======")
-                    p
+                    print("=====RESUMEN DE CALCULOS=====")
+                    print(f"NO PAGA IMPUESTOS POR INGRESOS MENORES A {ingreso_anual} Y DEPENDIENTES MAYORES A 2")
+                else:
+                     pass
+            else:
+                print("=======CALCULADORA DE IMPUESTOS PROGRESIVOS + DEDUCCIONES=======")
+                print("=====RESUMEN DE CALCULOS=====")
+
+
 
 
 
