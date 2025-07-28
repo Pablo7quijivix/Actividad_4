@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment="3 commit oficial">
+    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment="5 commit FINAL">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Actividad_4_actualizado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad_4_actualizado.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Actividad_4_actualizado.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -114,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753658045747</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4 commit oficial">
+      <option name="closed" value="true" />
+      <created>1753660141638</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753660141638</updated>
+    </task>
+    <task id="LOCAL-00008" summary="5 commit FINAL">
+      <option name="closed" value="true" />
+      <created>1753660492815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753660492815</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +152,8 @@
     <MESSAGE value="2 commit" />
     <MESSAGE value="1 commit oicial" />
     <MESSAGE value="3 commit oficial" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 commit oficial" />
+    <MESSAGE value="4 commit oficial" />
+    <MESSAGE value="5 commit FINAL" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 commit FINAL" />
   </component>
 </project>
