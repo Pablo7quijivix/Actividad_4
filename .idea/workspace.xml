@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment=" 4 commit del 2do codigo">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment="1 commit actual" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +169,31 @@
       <option name="project" value="LOCAL" />
       <updated>1753683442524</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1 commit actual">
+      <option name="closed" value="true" />
+      <created>1753684593363</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753684593363</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1 commit actual">
+      <option name="closed" value="true" />
+      <created>1753684785378</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1753684785378</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1 commit actual">
+      <option name="closed" value="true" />
+      <created>1753684893999</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1753684893999</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +219,10 @@
     <MESSAGE value="  2 commit del 2do codigo" />
     <MESSAGE value="  3 commit del 2do codigo" />
     <MESSAGE value=" 4 commit del 2do codigo" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 4 commit del 2do codigo" />
+    <MESSAGE value="2 commit actual" />
+    <MESSAGE value="3 commit actual" />
+    <MESSAGE value="1 commit actual" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 commit actual" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
