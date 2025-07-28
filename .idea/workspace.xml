@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment="1 commit actual" />
+    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753684893999</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="3 commit actual">
+      <option name="closed" value="true" />
+      <created>1753684954336</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1753684954336</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +209,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -220,9 +240,9 @@
     <MESSAGE value="  3 commit del 2do codigo" />
     <MESSAGE value=" 4 commit del 2do codigo" />
     <MESSAGE value="2 commit actual" />
-    <MESSAGE value="3 commit actual" />
     <MESSAGE value="1 commit actual" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 commit actual" />
+    <MESSAGE value="3 commit actual" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 commit actual" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
