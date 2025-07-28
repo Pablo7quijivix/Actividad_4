@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment="  2 commit del 2do codigo">
-      <change beforePath="$PROJECT_DIR$/Actividad_4_actualizado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad_4_actualizado.py" afterDir="false" />
+    <list default="true" id="0b615097-4620-4001-a8dd-9b13ed9821d6" name="Changes" comment=" 4 commit del 2do codigo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753681976928</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="  3 commit del 2do codigo">
+      <option name="closed" value="true" />
+      <created>1753682241102</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753682241102</updated>
+    </task>
+    <task id="LOCAL-00012" summary=" 4 commit del 2do codigo">
+      <option name="closed" value="true" />
+      <created>1753682946358</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1753682946358</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,7 +187,9 @@
     <MESSAGE value="5 commit FINAL" />
     <MESSAGE value="1 commit del 2do codigo" />
     <MESSAGE value="  2 commit del 2do codigo" />
-    <option name="LAST_COMMIT_MESSAGE" value="  2 commit del 2do codigo" />
+    <MESSAGE value="  3 commit del 2do codigo" />
+    <MESSAGE value=" 4 commit del 2do codigo" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 4 commit del 2do codigo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
