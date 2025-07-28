@@ -56,6 +56,19 @@ if 0 <= ingreso_anual <= 30000:
             else:
                 print("=======CALCULADORA DE IMPUESTOS PROGRESIVOS + DEDUCCIONES=======")
                 print("=====RESUMEN DE CALCULOS=====")
+                print(f"==DESCUENTO DEL 20% + Q1,000.00 POR DEPENDIENTE==\n POR ENDE PAGA UN TOTAL: {des4} ")
+        else:
+            print(f"=======CALCULADORA DE IMPUESTOS PROGRESIVOS + DEDUCCIONES =======")
+            print(f"====RESUMEN DE CALCULOS====")
+            print(f"==DESCUENTO DEL 15% + Q1,000.00 POR DEPEDIENTE==\n POR ENDE PAGA UN TOTAL: {des3}")
+    else:
+        print(f"=======CALCULADORA DE IMPUESTOS PROGRESIVOS + DEDUCCIONES =======")
+        print(f"====RESUMEN DE CALCULOS====")
+        print(f"==DESCUENTO DEL 10% + Q1,000.00 POR DEPEDIENTE==\n POR ENDE PAGA UN TOTAL: {des2}")
+else:
+    print(f"=======CALCULADORA DE IMPUESTOS PROGRESIVOS + DEDUCCIONES =======")
+    print(f"====RESUMEN DE CALCULOS====")
+    print(f"==DESCUENTO DEL 5% + Q1,000.00 POR DEPEDIENTE==\n POR ENDE PAGA UN TOTAL: {des1}")
 
 
 
